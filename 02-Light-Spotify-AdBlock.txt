@@ -8,9 +8,7 @@
 # Date: 01 January 2021 11:34:57 (UTC)
 # Number of unique domains: 6
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/Acidtrader/LightSpotifyAdBlock
-# Project releases: https://github.com/Acidtrader/hosts/releases
 #
 # ===============================================================
 
