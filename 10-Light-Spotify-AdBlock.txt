@@ -8,7 +8,7 @@
 # Apply the most complete list without bugging spotify or getting banned
 #
 # Date: 01 January 2021 11:34:57 (UTC)
-# Number of unique domains: 6
+# Number of unique domains: 3779
 #
 # Project home page: https://github.com/Acidtrader/LightSpotifyAdBlock
 ## Project releases: https://github.com/Acidtrader/hosts/releases
